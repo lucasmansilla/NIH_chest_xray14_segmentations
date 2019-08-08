@@ -7,7 +7,7 @@ Anatomical segmentation masks produced for NIH Chest-XRay14 dataset using AC-Reg
 
 To extract all segmentation masks you can use the *cat* command to first join the tar blocks and then the *tar* command to extract the entire file:
 ```
-cat segmentations.tar.gz.* | tar xzvf --
+cat segmentations.tar.gz.* | tar xzvf -
 ```
 
 
