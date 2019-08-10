@@ -1,5 +1,5 @@
 # NIH Chest-XRay14 segmentations
-Anatomical segmentation masks produced for NIH Chest-XRay14 dataset using [AC-RegNet](https://github.com/lucasmansilla/ACRN_Chest_X-ray_IA) with a multi-atlas segmentation model.
+Anatomical segmentation masks produced for [NIH Chest-XRay14](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) dataset using [AC-RegNet](https://github.com/lucasmansilla/ACRN_Chest_X-ray_IA) with a multi-atlas segmentation model.
 
 ## Content:
 - *segmentations.tar.gz.\**: Files containing the anatomical segmentation masks.
