@@ -10,7 +10,6 @@ To extract all segmentation masks you can use the *cat* command to first join th
 cat segmentations.tar.gz.* | tar xzvf -
 ```
 
-
-
-
-
+## Reference:
+If you use source code or results from this repository in your publication, please cite our paper:
+- "Learning deformable registration of medical images with anatomical constraints. L. Mansilla, D.H. Milone and E. Ferrante. Neural Networks ISSN: 0893-6080 (2020, Elsevier)."
