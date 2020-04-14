@@ -25,20 +25,50 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
     <td><code itemprop="url">https://github.com/lucasmansilla/NIH_chest_xray14_segmentations</code></td>
   </tr>
   <tr>
+    <td>sameAs</td>
+    <td><code itemprop="sameAs">https://github.com/lucasmansilla/NIH_chest_xray14_segmentations</code></td>
+  </tr>
+  <tr>
     <td>description</td>
-    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model</code></td>
+    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model. You can download our paper from [here](https://arxiv.org/abs/2001.07183).  
+      ![](https://i.imgur.com/k3PbVS9.png)  
+      If you use source code or results from this repository in your publication, please cite our paper: Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.</code></td>
   </tr>
   <tr>
     <td>citation</td>
-    <td><code itemprop="citation">Learning deformable registration of medical images with anatomical constraints. L. Mansilla, D.H. Milone and E. Ferrante. Neural Networks. ISSN: 0893-6080 (2020, Elsevier)</code></td>
+    <td><code itemprop="citation">Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.</code></td>
   </tr>
   <tr>
     <td>datePublished</td>
     <td><code itemprop="datePublished">2019-08-08</code></td>
   </tr>
-</table>
-</div>
+  <tr>
+    <td>license</td>
+    <td>
+      <div itemscope itemtype="http://schema.org/CreativeWork" itemprop="license">
+        <table>
+          <tr>
+            <th>property</th>
+              <th>value</th>
+            </tr>
+            <tr>
+              <td>name</td>
+              <td><code itemprop="name">MIT License</code></td>
+            </tr>
+            <tr>
+              <td>url</td>
+              <td><code itemprop="url">https://choosealicense.com/licenses/mit/</code></td>
+            </tr>
+          </table>
+        </div>
+      </td>
+    </tr>
+  </table>
+  </div>
 
-## Reference
-If you use source code or results from this repository in your publication, please cite our paper:
-- "Learning deformable registration of medical images with anatomical constraints. L. Mansilla, D.H. Milone and E. Ferrante. Neural Networks. ISSN: 0893-6080 (2020, Elsevier)."
+  ## Reference
+  If you use source code or results from this repository in your publication, please cite our paper:
+  - Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.
+
+  ## License
+  [MIT](https://choosealicense.com/licenses/mit/)
