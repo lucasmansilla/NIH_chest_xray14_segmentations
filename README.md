@@ -30,9 +30,9 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model. You can download our paper from [here](https://arxiv.org/abs/2001.07183).  
-      ![](https://i.imgur.com/k3PbVS9.png)  
-      If you use source code or results from this repository in your publication, please cite our paper: Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.</code></td>
+    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model. If you use source code or results from this repository in your publication, please cite our paper: Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279. You can download our paper from [here](https://arxiv.org/abs/2001.07183).  
+      ![](https://i.imgur.com/k3PbVS9.png)
+      </code></td>
   </tr>
   <tr>
     <td>citation</td>
