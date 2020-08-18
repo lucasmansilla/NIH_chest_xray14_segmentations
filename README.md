@@ -1,5 +1,5 @@
 # NIH Chest-XRay14 segmentations
-Anatomical segmentation masks produced for [NIH Chest-XRay14](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) dataset using [AC-RegNet](https://github.com/lucasmansilla/ACRN_Chest_X-ray_IA) with a multi-atlas segmentation model.
+Anatomical segmentation masks produced for the [NIH Chest-XRay14](https://www.nih.gov/news-events/news-releases/nih-clinical-center-provides-one-largest-publicly-available-chest-x-ray-datasets-scientific-community) dataset using [AC-RegNet](https://github.com/lucasmansilla/ACRN_Chest_X-ray_IA) and a multi-atlas segmentation model.
 
 ## Content
 - *segmentations.tar.gz.\**: Files containing the anatomical segmentation masks.
@@ -30,7 +30,7 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </tr>
   <tr>
     <td>description</td>
-    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model. If you use source code or results from this repository in your publication, please cite our paper: Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279. You can download our paper from [here](https://arxiv.org/abs/2001.07183).  
+    <td><code itemprop="description">Anatomical segmentation masks of lung and heart produced for the NIH Chest-XRay14 dataset using AC-RegNet with a multi-atlas segmentation model. If you use source code or results from this repository in your publication, please cite our paper: Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.  
       ![](https://i.imgur.com/k3PbVS9.png)
       </code></td>
   </tr>
@@ -67,7 +67,6 @@ engines such as <a href="https://g.co/datasetsearch">Google Dataset Search</a>.
   </div>
 
   ## Reference
-  If you use source code or results from this repository in your publication, please cite our paper:
   - Mansilla, L., Milone, D. H., & Ferrante, E. (2020). Learning deformable registration of medical images with anatomical constraints. Neural Networks, 124, 269-279.
 
   ## License
